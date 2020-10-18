@@ -1,0 +1,1 @@
+Je vais réviser tous les fichiers, organiser la soumission, créer un document qui explique la soumission, et finalement soummettre le livrable. 

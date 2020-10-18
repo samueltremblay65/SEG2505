@@ -1,0 +1,1 @@
+Avant de commit, mets ton document avec le UML pour le livrable 1, et delete ce fichier (README.txt ne devrait pas être committed)
